@@ -1,5 +1,5 @@
 # Opensource Camera2
-===
+Based on android-Camera2Basic
 
 ## Description
 それはとっても単純でシンプルで清らかなオープンソースのカメラです。
