@@ -73,7 +73,6 @@
             android:padding="20dp"
             android:src="@drawable/timer_icon" />
 
-
     </FrameLayout>
 
 </RelativeLayout>

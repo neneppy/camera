@@ -22,8 +22,12 @@
 -->
 <resources>
     <string name="timer_desc">タイマーの設定をするんですぅ。</string>
-    <string name="zoom_desc">拡大・露出の設定をするんですぅ。穴掘って埋まってますぅ＞＜</string>
+    <string name="zoom_desc">拡大・露出の設定をするんですぅ。</string>
     <string name="take_desc">撮影をするんですぅ。</string>
-    <string name="request_permission">カメラのパーミッションが必要なんですぅ。</string>
+    <string name="request_permission">カメラのパーミッションが必要なんですぅ。穴掘って埋まってますぅ＞＜</string>
     <string name="camera_error">このデバイスはCamera2をサポートしていないため非対応ですぅ。</string>
+    <string name="zoomDesc_text">拡大・縮小</string>
+    <string name="expoDesc_text">露光</string>
+    <string name="zoomDesc_desc">拡大・縮小の操作を行うんですぅ。</string>
+    <string name="expoDesc_desc">露光の設定を行うんですぅ。</string>
 </resources>

@@ -71,4 +71,37 @@
 
     </FrameLayout>
 
+    <LinearLayout
+        android:id="@+id/zoomInner"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="vertical"
+        android:layout_above="@+id/control"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/zoomDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zoomDesc_text" />
+
+        <SeekBar
+            android:id="@+id/zoomSeek"
+            android:contentDescription="@string/zoomDesc_desc"
+            android:layout_width="match_parent"
+            android:layout_height="32dp" />
+
+        <TextView
+            android:id="@+id/exposureDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/expoDesc_text" />
+
+        <SeekBar
+            android:id="@+id/exposureSeek"
+            android:contentDescription="@string/expoDesc_desc"
+            android:layout_width="match_parent"
+            android:layout_height="32dp" />
+    </LinearLayout>
+
 </RelativeLayout>
